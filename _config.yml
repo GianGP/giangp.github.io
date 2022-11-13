@@ -18,8 +18,8 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-baseurl:             gpanacioni.com
-timezone:            America/Sao_Paulo
+baseurl:             / # the subpath of your site, e.g. "/blog"
+url:                 https://gpanacioni.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Lagrange'
