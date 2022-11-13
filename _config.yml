@@ -24,7 +24,7 @@ url:                 https://gpanacioni.com # the base hostname & protocol for y
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Lagrange'
 description:	       'a minimalist Jekyll theme'
-author:              'Gian G Panacioni'
+author:              'Paul Le'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
